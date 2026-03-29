@@ -152,8 +152,3 @@ jupyter notebook crop_yield_prediction.ipynb
 - Extend to sub-district (tehsil) level predictions
 
 ---
-
-## 👤 Author
-
-**Your Name**  
-[LinkedIn](https://linkedin.com/in/your-profile) • [GitHub](https://github.com/your-username)
